@@ -10,3 +10,4 @@ I am a [Biomedical Engineering Ph.D. student at Johns Hopkins University](https:
 
 Prior to joining the Ph.D. program, I graduated summa cum laude with a B.S. in Biomedical Engineering and a minor in Computational Physics from [Union College, N.Y](https://www.union.edu/ecbe/biomedical-engineering). During my undergraduate studies, I worked on a variety of projects, including evolutionary algorithm-based soft robotics movement analysis, photon counting CT evaluation, meson decay analysis with the GlueX project, and developing an MRI preprocessing pipeline.
 
+Find my lastest [CV]() 
